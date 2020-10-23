@@ -3,7 +3,7 @@
 Scanner de portas em Python 3.x
 Port Scanner
 -
-Diego Mendes Rodrigues
+Bernard Alvares Luz Matos 
 """
 import socket
 import sys
